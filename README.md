@@ -1,4 +1,4 @@
-== Hostname Checker ==
+## Hostname Checker ##
 
 Used as a debugging tool for Hadoop's hostname issues. (Returns the canonical hostname as well as reverse).
 
