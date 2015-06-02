@@ -1,0 +1,2 @@
+to execute use:
+mvn exec:java -Dexec.mainClass="com.bigstep.HostnameChecker"
