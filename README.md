@@ -17,5 +17,5 @@ java -jar HostnameChecker-1.0-SNAPSHOT.jar
 ```
 
 The binary jar file is also provided for convenience at 
-https://github.com/alexandrubordei/HostnameChecker/blob/master/target/HostnameChecker-1.0-SNAPSHOT.jar?raw=true
+https://github.com/alexandrubordei/HostnameChecker/raw/master/target/HostnameChecker-1.0-SNAPSHOT.jar
 
